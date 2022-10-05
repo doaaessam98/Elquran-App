@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Elquran</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="radio_player_channel">radio_channel</string>
+    <string name="channel_description">thid_channel_to_display_radio_channel</string>
+    <string-array name="kind_of_zekr">
+        <item>الله اكبر</item>
+        <item>سبحان الله</item>
+        <item>الحمد لله</item>
+        <item>لا اله الا الله</item>
+
+    </string-array>
+</resources>

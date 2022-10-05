@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="64dp"
+    android:orientation="horizontal">
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="match_parent"
+        android:src="@drawable/splash"
+       android:scaleType="centerCrop"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="vhvfg"
+    android:id="@+id/notification_title"
+    style="@style/TextAppearance.Compat.Notification.Title"
+    />
+<TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="wwwww"
+        android:id="@+id/notification_desc"
+        style="@style/TextAppearance.Compat.Notification.Info"
+        />
+
+
+
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center"
+    >
+    <ImageView
+        android:id="@+id/notifiation_play"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+android:src="@drawable/ic_notification_play"
+        tools:ignore="VectorDrawableCompat" />
+    <ImageView
+        android:id="@+id/notifiation_stop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       android:src="@drawable/ic_notification_stop"
+
+
+        tools:ignore="VectorDrawableCompat" />
+</LinearLayout>
+</LinearLayout>
+
+</LinearLayout>

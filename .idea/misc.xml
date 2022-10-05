@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/Elquran/app/src/main/res/layout/aya_content.xml" value="0.10643115942028986" />
+        <entry key="..\:/AndroidStudioProjects/Elquran/app/src/main/res/layout/fragment_radio.xml" value="0.10643115942028986" />
+        <entry key="..\:/AndroidStudioProjects/Elquran/app/src/main/res/layout/radio_item.xml" value="0.10643115942028986" />
+        <entry key="..\:/AndroidStudioProjects/Elquran/app/src/main/res/layout/radio_notification_small.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/Elquran/app/src/main/res/layout/soura_item.xml" value="0.10643115942028986" />
+        <entry key="..\:/AndroidStudioProjects/Elquran/app/src/main/res/layout/sours_flagment_fragment.xml" value="0.10643115942028986" />
+        <entry key="..\:/AndroidStudioProjects/Elquran/app/src/main/res/layout/tasbeh_fragment.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
